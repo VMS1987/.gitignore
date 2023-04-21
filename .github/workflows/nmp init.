@@ -1,8 +1,9 @@
 Initialize an npm package with npm init. In the package initialization wizard, enter your package with the name: @YOUR-USERNAME/YOUR-REPOSITORY, and set the test script to exit 0. This will generate a package.json file with information about your package.
 
 $ npm init
-  ...
+  ...wizard 
   package name: @YOUR-USERNAME/YOUR-REPOSITORY
-  ...
+  ...https://github.com/VMS1987/.gitignore.git
   test command: exit 0
   ...
+ 0
